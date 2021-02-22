@@ -2,7 +2,7 @@
     <img alt="Logo NLW04" src="https://github.com/eliziebluiz/NLW04/blob/main/moveit/public/moveit.png" width="50%"
 />
     <br>
-    NLW04
+    Move it
 </h1>
 
 This boilerplate was developed with the following technologies:
