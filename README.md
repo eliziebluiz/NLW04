@@ -8,6 +8,7 @@
 This boilerplate was developed with the following technologies:
 
 - [ReactJS]()
+- [NextJS]()
 - [TypeScript]()
 - [React Testing Library]()
 - [Babel]()
@@ -21,10 +22,10 @@ This boilerplate was developed with the following technologies:
 
 ```bash
 # Create a project using this boilerplate
-$ yarn create next-app -e https://github.com/eliziebluiz/StudyCode.git
+$ yarn create next-app -e https://github.com/eliziebluiz/NLW04.git
 
 # ✔ What is your project named?
-$ Study Code
+$ Move it
 
 # Install dependencies
 $ yarn install
