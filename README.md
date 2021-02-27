@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo NLW04" src="https://github.com/eliziebluiz/NLW04/blob/main/moveit/public/moveit.png" width="50%"
+    <img alt="Logo NLW04" src="https://github.com/eliziebluiz/NLW04/blob/main/moveit-next/public/moveit.png" width="50%"
 />
     <br>
     Move it
